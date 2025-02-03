@@ -4,7 +4,7 @@
 
 <br>
 
-Esse projeto consiste no desenvolvimento de uma página simples de receita.
+Esse projeto consiste no desenvolvimento de uma página simples de receita 🧁
 
 O projeto integra a formação Full-Stack da Rocketseat, sendo um dos conteúdos de especialização desenvolvidos em aula.
 
