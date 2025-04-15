@@ -1,12 +1,8 @@
 # Página de Receita
 
-- **Projeto de Formação Full-Stack Rocketseat**
+**Projeto de Formação Full-Stack Rocketseat**
 
-<br>
-
-Esse projeto consiste no desenvolvimento de uma página simples de receita 🧁
-
-O projeto integra a formação Full-Stack da Rocketseat, sendo um dos conteúdos de especialização desenvolvidos em aula.
+Esse projeto consiste no desenvolvimento de uma página simples de receita, ele integra a formação Full-Stack da Rocketseat, sendo um dos conteúdos de especialização desenvolvidos em aula.
 
 <br>
 
